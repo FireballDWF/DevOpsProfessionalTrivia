@@ -5,750 +5,115 @@ module.exports = {
      * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
      * Make sure the first answer is the correct one. Set at least ANSWER_COUNT answers, any extras will be shuffled in.
      */
-    "QUESTIONS_EN_GB" : [
-        {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
-            ]
-        },
-        {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
-            ]
-        },
-        {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
-            ]
-        },
-        {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be. ": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
-            ]
-        },
-        {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
-            ]
-        },
-        {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
-            ]
-        },
-        {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
-            ]
-        },
-        {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
-            ]
-        },
-        {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
-            ]
-        },
-        {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
-            ]
-        },
-        {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
-            ]
-        },
-        {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
-            ]
-        },
-        {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
-            ]
-        },
-        {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
-            ]
-        },
-        {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
-            ]
-        },
-        {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
-            ]
-        },
-        {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
-            ]
-        },
-        {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
-            ]
-        }
-    ],
+/** Cloudwatch, metric and log based. real-time and non-real time.  know names of default metrics so can tell difference from custom metrics
+ ** IAM: 3rd party account access
+ **     other accounts accessing yours (web/corportate federation, best practices for cross-account access)
+ **     you accessing resources in other accounts
+ **     how to securely provide files from S3 to EC2
+ ** Knowledge of A/B testing or Blue/Green deployment methods
+ ** Cloudformation: basic syntax, operation, advanced concepts: cfn-init, updates to stacks, usage of proper keywords
+ 	  multi-stack or nested
+ 	  attributes
+ 	  custom resources
+ 	  creation policies
+ **   What custom resources are and how to leverage them into other bespoke systems
+ **   What is a WaitCondition and how is WaitConditionhandlers related, in detail and effectively
+ ** Autoscaling groups inside and out, instance state, lifecycle hooks, 
+       ways in which pause/standby/suspending processes/instances.  Scheduled scaling
+    Specifically, what is defined where and the fact you can’t change a launch configuration once set on an autoscaling group.
+
+
+ ** use and store credentials across the AWS playform, EC2 roles, how non-AWS credential storage is done effectively
+ ** OPSWork: layers, deployment methof, deployment commanfd, lifecycle, berksfile
+ ** Beanstalk back to front, including .ebextensions, and docker integrates.  versioning, deployment methods, config updates if/when/how non-Linux OS can be used, ie: windows 2012.  docker with windows?
+ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-init.html
+ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environment-resources.html
+ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
+
+ ** log management strategies for EC2 instances: cloudwatch logs, S3 storage, glacier transfer using lifecycle policies
+ ** standard and custom cloudwatch metrics, how to extend these with custom values based on pure metrics and log filters
+ ** CloudTrail
+ ** kinesis: usage for log ingestion
+ ** FAQ's
+ https://www.reddit.com/r/aws/comments/474hcm/devops_professional_sample_exam_answers/
+ https://d0.awsstatic.com/training-and-certification/docs/AWS_certified_DevOps_Engineer_Professional_SampleExam.pdf
+ https://d0.awsstatic.com/Train%20%26%20Cert/docs/AWS_certified_devops_engineer_professional_blueprint.pdf
+ couple questions on DynamoDB, CloudSearch, S3, RDS, SWF, docker
+ DeletionPolicy is an attribute not a property
+ Whitepper scalabilty and deployment services
+**/
+   
     "QUESTIONS_EN_US" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "Can Cloudformation Templates cause interruptions?": [
+                "Depends on the resource and property that you are updating",
+                "Always",
+                "Never",
+                "Only if the --allow-interruption command line flag is specified"
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+            "If you want to update existing instances when you update the LaunchConfiguration resource, you must:": [
+                "Specify an update policy attribute on the AWS:AutoScaling::AutoScalingGroup resource",
+                "Specify an update property for each Cloudformation Resource",
+                "Use OpsWorks to perform the updates",
+                "Stop the instances from the Console first"
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "What feature of git can be used notify a continous integration server of a new check-in?": [
+                "Post-receive hooks",
+                "Merge notifications",
+                "Pre-commit hooks",
+                "None, as continous integration is automatically enabled in git"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "Which of the following is Not a valid Cloudformation UpdatePolicy?": [
+                "AutoScalingBlueGreenUpdate",
+                "AutoScalingReplacingUpdate",
+                "AutoScalingRollingUpdate",
+                "AutoScalingScheduledAction"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
+            "Which of the following changes won't trigger a Cloudformation AutoScalingReplacingUpdate or AutoScalingRollingUpdate policy?": [
+                "Change the Auto Scaling group's AvailabilityZones",
+                "Change the Auto Scaling group's AWS::AutoScaling::LaunchConfiguration",
+                "Change the Auto Scaling group's VPCZoneIdentifier property",
+                "Update an Auto Scaling group that contains instances that don't match the current LaunchConfiguration"
             ]
         },
         {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
+            "Which of the following is Not true of Cloudformation Custom Resources?": [
+                "S3 VPC Endpoints are not supported",
+                "Custom Resources must send responses to a pre-signed Amazon S3 URL",
+                "Service tokens are required",
+                "Responses can also include name-value pairs that the template developer can access"
             ]
         },
         {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
+            "Which of the following is not a valid Cloudformation Resource Attribute?": [
+                "ResponsePolicy",
+                "CreationPolicy",
+                "DeletionPolicy",
+                "DependsOn"
             ]
         },
         {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
+            "A Cloudformation DeletionPolicy provides the ability to delete snapshots of resources belonging to the stack?": [
+                "False",
+                "True",
+                "True only when --allow-deletion is specified",
+                "True only when --enable-deletion is specified"
             ]
         },
         {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
-            ]
-        },
-        {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
-            ]
-        },
-        {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
-            ]
-        },
-        {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
-            ]
-        },
-        {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
-            ]
-        },
-        {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
-            ]
-        },
-        {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
-            ]
-        },
-        {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
-            ]
-        },
-        {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
-            ]
-        },
-        {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
-            ]
-        }
-    ],
-    "QUESTIONS_DE_DE" : [
-        {
-            "Rentiere haben ein sehr dickes Fell. Wie viele Haare pro Quadratzentimeter haben sie?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
-            ]
-        },
-        {
-            "Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in. ": [
-                "Japan",
-                "USA",
-                "Finnland",
-                "Deutschland",
-                "Kanada",
-                "Norwegen",
-                "Frankreich"
-            ]
-        },
-        {
-            "Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen. Wie heißt sie?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pfeffer Minstix"
-            ]
-        },
-        {
-            "Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle. ": [
-                "Weiblich",
-                "Männlich",
-                "Weiblich und männlich",
-                "Kann man nicht sagen"
-            ]
-        },
-        {
-            "Was essen Rentiere?": [
-                "Flechten",
-                "Gras",
-                "Blätter",
-                "Beeren"
-            ]
-        },
-        {
-            "Welche Aussage ist nicht richtig?": [
-                "Karibus leben auf allen Kontinenten",
-                "Karibus und Rentiere gehören derselben Gattung an ",
-                "Karibus sind größer als Rentiere",
-                "Rentiere leben in Skandinavien und Russland"
-            ]
-        },
-        {
-            "In welchem Jahr kam Rudolph ins Fernsehen?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
-            ]
-        },
-        {
-            "Wer war der Sprecher für Rudolph im klassischen Film aus dem Jahr 1964?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
-            ]
-        },
-        {
-            "Welche Handelskette verwendete 1939 die Geschichte von Rudolph mit der roten Nase?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
-            ]
-        },
-        {
-            "Wie hieß das Rentier des Weihnachtsmanns namens Donner ursprünglich?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
-            ]
-        },
-        {
-            "Wer hat die Geschichte von Rudolph erfunden?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
-            ]
-        },
-        {
-            "Wo findest du keine Rentiere?": [
-                "Nordpol",
-                "Lappland",
-                "Korvatunturi-Berge",
-                "Finnland"
-            ]
-        },
-        {
-            "Warum können die Rentiere des Weihnachtsmanns fliegen?": [
-                "Magischer Staub der Rentiere",
-                "Fusion",
-                "Amanita muscaria",
-                "Elfen"
-            ]
-        },
-        {
-            "Wieviele Rentierhufe gibt es hier einschließlich Rudolph?": [
-                "36",
-                "24",
-                "16",
-                "8"
-            ]
-        },
-        {
-            "Der Weihnachtsmann hat nur ein weibliches Rentier. Wie heißt es?": [
-                "Blitzen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
-            ]
-        },
-        {
-            "Wie war der Name des erzählenden Schneemanns im klassischen Film Rudolph mit der roten Nase aus dem Jahr 1964?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
-            ]
-        },
-        {
-            "Wie hieß der Vater von Rudolph?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
-            ]
-        },
-        {
-            "Wie war der Name des Trainers der Rentierspiele im klassischen Film aus dem Jahr 1964?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
-            ]
-        },
-        {
-            "Wie war im klassichen Film aus 1964 der Name des Hirsches, mit dem sich Rudolph befreundete?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "Wie hat der Vater von Rudolph, Donner, im Film aus dem Jahr 1964 versucht, die Nase von Rudolph zu verbergen?": [
-                "Schwarzer Schlamm",
-                "Sack",
-                "Kissenbezug",
-                "Socke"
-            ]
-        },
-        {
-            "Was möchte die Misfit-Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?": [
-                "Zahnarzt",
-                "Rentier",
-                "Spielzeugmacher",
-                "Kerzenmacher"
-            ]
-        },
-        {
-            "Was war die einzige Schwäche von Bumble im Film aus dem Jahr 1964?": [
-                "Konnte nicht schwimmen",
-                "War immer hungrig",
-                "Zuckerstangen",
-                "Schielte"
-            ]
-        },
-        {
-            "Was sucht Yukon Cornelius in Wirklichkeit im Film aus dem Jahr 1964?": [
-                "Pfefferminz",
-                "Gold",
-                "Indien",
-                "Polarbären"
-            ]
-        },
-        {
-            "Warum befindet sich der Zug im Film aus dem Jahr 1964 auf der Insel des fehlerhaften Spielzeugs?": [
-                "Viereckige Räder",
-                "Keine Dampfmaschine",
-                "Farbe stimmt nicht",
-                "Pfeift nicht"
-            ]
-        },
-        {
-            "Wie lautet der Name des Schachtelmännchens im Film aus dem Jahr 1964?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "Warum hat der Weihnachtsmann im Film aus dem Jahr 1964 Weihnachten beinahe abgesagt?": [
-                "Sturm",
-                "Kein Schnee",
-                "Kein Spielzeug",
-                "Die Rentiere waren krank"
-            ]
-        },
-        {
-            "Welches tierische Geräusch machte die Elfe im Film aus dem Jahr 1964, um den Bumble abzulenken?": [
-                "Oink",
-                "Knurr",
-                "Wauwau",
-                "Miau"
-            ]
-        },
-        {
-            "Wie lautet der Name des Goldsuchers im Film aus dem Jahr 1964?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "Wie weit ziehen Rentiere auf ihren Wanderungen?": [
-                "4800 km",
-                "1100 km",
-                "800 km",
-                "0 km"
-            ]
-        },
-        {
-            "Wie schnell läuft ein Rentier?": [
-                "77 km pro Stunde",
-                "27 km pro Stunde",
-                "30 km pro Stunde",
-                "22 km pro Stunde",
-                "83 km pro Stunde",
-                "65 km pro Stunde"
+            "Cloudformation Creation Policies are preferred over Wait Condition in which of the following?": [
+                "EC2 and Auto Scaling resources",
+                "Always",
+                "Never",
+                "VPCGatewayAttachments"
             ]
         }
     ]
